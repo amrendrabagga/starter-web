@@ -10,7 +10,7 @@ Sample website with plenty of files for demos. Changing some text.
 
 ## How to Contribute
 
-Any can contribute by saying thankyou.
+Any one can contribute by saying thankyou. Adding continued....
 
 ### Copyright
 
