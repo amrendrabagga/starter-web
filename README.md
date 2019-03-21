@@ -11,3 +11,7 @@ Sample website with plenty of files for demos. Changing some text.
 ## How to Contribute
 
 Any can contribute by saying thankyou.
+
+### Copyright
+
+1233 Git.Training
