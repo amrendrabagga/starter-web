@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amrendra Bagga amrendrabagga@gmail.com
 
 # THANKS
 
