@@ -15,4 +15,4 @@ Any one can contribute by saying thankyou. Adding continued....
 
 ### Copyright
 
-1233 Git.Training
+1233 Git.Training. Al right reserved.
